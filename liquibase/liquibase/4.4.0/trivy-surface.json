@@ -3,8 +3,8 @@
   "Trivy": {
     "Version": "0.69.3"
   },
-  "ReportID": "01a16930-3688-7234-abee-77b20520f2f9",
-  "CreatedAt": "2026-10-23T14:35:29.800157168Z",
+  "ReportID": "01a1790e-426b-723a-b4c3-4d23f3ed174e",
+  "CreatedAt": "2026-10-26T16:32:20.075147867Z",
   "ArtifactID": "sha256:6c91193a4acacc9c7b5afc41e3e46dc545c04a86ccfbdaef4e6871872aa94a2e",
   "ArtifactName": "liquibase/liquibase:4.4.0",
   "ArtifactType": "container_image",
@@ -11211,7 +11211,7 @@
             "https://www.debian.org/security/2023/dsa-5439"
           ],
           "PublishedDate": "2023-06-21T17:15:47.703Z",
-          "LastModifiedDate": "2026-06-17T05:53:33.51Z"
+          "LastModifiedDate": "2026-10-24T19:10:00.127Z"
         },
         {
           "VulnerabilityID": "CVE-2023-3341",
@@ -12547,7 +12547,7 @@
             "https://www.debian.org/security/2023/dsa-5439"
           ],
           "PublishedDate": "2023-06-21T17:15:47.703Z",
-          "LastModifiedDate": "2026-06-17T05:53:33.51Z"
+          "LastModifiedDate": "2026-10-24T19:10:00.127Z"
         },
         {
           "VulnerabilityID": "CVE-2023-3341",
@@ -15171,7 +15171,7 @@
             "https://www.debian.org/security/2023/dsa-5439"
           ],
           "PublishedDate": "2023-06-21T17:15:47.703Z",
-          "LastModifiedDate": "2026-06-17T05:53:33.51Z"
+          "LastModifiedDate": "2026-10-24T19:10:00.127Z"
         },
         {
           "VulnerabilityID": "CVE-2023-3341",
@@ -16850,7 +16850,7 @@
             "https://www.debian.org/security/2023/dsa-5439"
           ],
           "PublishedDate": "2023-06-21T17:15:47.703Z",
-          "LastModifiedDate": "2026-06-17T05:53:33.51Z"
+          "LastModifiedDate": "2026-10-24T19:10:00.127Z"
         },
         {
           "VulnerabilityID": "CVE-2023-3341",
@@ -17488,7 +17488,7 @@
             "https://www.debian.org/security/2023/dsa-5439"
           ],
           "PublishedDate": "2023-06-21T17:15:47.703Z",
-          "LastModifiedDate": "2026-06-17T05:53:33.51Z"
+          "LastModifiedDate": "2026-10-24T19:10:00.127Z"
         },
         {
           "VulnerabilityID": "CVE-2023-3341",
@@ -18126,7 +18126,7 @@
             "https://www.debian.org/security/2023/dsa-5439"
           ],
           "PublishedDate": "2023-06-21T17:15:47.703Z",
-          "LastModifiedDate": "2026-06-17T05:53:33.51Z"
+          "LastModifiedDate": "2026-10-24T19:10:00.127Z"
         },
         {
           "VulnerabilityID": "CVE-2023-3341",
@@ -20293,7 +20293,7 @@
             "https://www.debian.org/security/2023/dsa-5439"
           ],
           "PublishedDate": "2023-06-21T17:15:47.703Z",
-          "LastModifiedDate": "2026-06-17T05:53:33.51Z"
+          "LastModifiedDate": "2026-10-24T19:10:00.127Z"
         },
         {
           "VulnerabilityID": "CVE-2023-3341",
