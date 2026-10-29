@@ -3,8 +3,8 @@
   "Trivy": {
     "Version": "0.69.3"
   },
-  "ReportID": "01a18353-714a-7bdb-910d-3021a75abaf4",
-  "CreatedAt": "2026-10-28T16:24:06.218779344Z",
+  "ReportID": "01a18885-1694-7510-b88d-4ad60eef3226",
+  "CreatedAt": "2026-10-29T16:36:25.876332847Z",
   "ArtifactID": "sha256:7c0d79b300bd50f729e54f4ed719f7195e986e67d8bacfd4ac67159fe30889ec",
   "ArtifactName": "liquibase/liquibase:4.2.0",
   "ArtifactType": "container_image",
@@ -17806,7 +17806,7 @@
           ],
           "VendorSeverity": {
             "alma": 1,
-            "amazon": 2,
+            "amazon": 3,
             "azure": 3,
             "bitnami": 3,
             "cbl-mariner": 3,
@@ -17944,7 +17944,7 @@
           ],
           "VendorSeverity": {
             "alma": 2,
-            "amazon": 2,
+            "amazon": 3,
             "azure": 3,
             "cbl-mariner": 3,
             "julia": 3,
@@ -18065,7 +18065,7 @@
           ],
           "VendorSeverity": {
             "alma": 2,
-            "amazon": 2,
+            "amazon": 3,
             "cbl-mariner": 3,
             "julia": 3,
             "nvd": 3,
@@ -20867,7 +20867,7 @@
           ],
           "VendorSeverity": {
             "alma": 1,
-            "amazon": 2,
+            "amazon": 3,
             "azure": 3,
             "bitnami": 3,
             "cbl-mariner": 3,
@@ -21005,7 +21005,7 @@
           ],
           "VendorSeverity": {
             "alma": 2,
-            "amazon": 2,
+            "amazon": 3,
             "azure": 3,
             "cbl-mariner": 3,
             "julia": 3,
@@ -21126,7 +21126,7 @@
           ],
           "VendorSeverity": {
             "alma": 2,
-            "amazon": 2,
+            "amazon": 3,
             "cbl-mariner": 3,
             "julia": 3,
             "nvd": 3,
@@ -24274,8 +24274,8 @@
             "https://bugzilla.redhat.com/show_bug.cgi?id=2463857",
             "https://creativecommons.org/licenses/by/4.0/",
             "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-42198",
-            "https://errata.almalinux.org/10/ALSA-2026-24348.html",
-            "https://errata.rockylinux.org/RLSA-2026:22304",
+            "https://errata.almalinux.org/9/ALSA-2026-22304.html",
+            "https://errata.rockylinux.org/RLSA-2026:24348",
             "https://github.com/pgjdbc/pgjdbc",
             "https://github.com/pgjdbc/pgjdbc/releases/tag/REL42.7.11",
             "https://github.com/pgjdbc/pgjdbc/security/advisories/GHSA-98qh-xjc8-98pq",
