@@ -3,8 +3,8 @@
   "Trivy": {
     "Version": "0.69.3"
   },
-  "ReportID": "01a1d5f7-a916-7b66-a7dc-17d6d2d87417",
-  "CreatedAt": "2026-11-13T17:32:20.118749667Z",
+  "ReportID": "01a1e5f3-fd3f-7b1f-ade7-dfab9af4c45a",
+  "CreatedAt": "2026-11-16T20:02:14.975730326Z",
   "ArtifactID": "sha256:92ea5ec89878d02a20d9b4c14bc0233919db226e4b040de6bfddad84bdac2a96",
   "ArtifactName": "liquibase/liquibase:4.6.2",
   "ArtifactType": "container_image",
@@ -20921,7 +20921,7 @@
           ],
           "VendorSeverity": {
             "alma": 2,
-            "amazon": 2,
+            "amazon": 3,
             "azure": 3,
             "cbl-mariner": 3,
             "julia": 3,
@@ -21042,7 +21042,7 @@
           ],
           "VendorSeverity": {
             "alma": 2,
-            "amazon": 2,
+            "amazon": 3,
             "cbl-mariner": 3,
             "julia": 3,
             "nvd": 3,
@@ -24110,7 +24110,7 @@
           ],
           "VendorSeverity": {
             "alma": 2,
-            "amazon": 2,
+            "amazon": 3,
             "azure": 3,
             "cbl-mariner": 3,
             "julia": 3,
@@ -24231,7 +24231,7 @@
           ],
           "VendorSeverity": {
             "alma": 2,
-            "amazon": 2,
+            "amazon": 3,
             "cbl-mariner": 3,
             "julia": 3,
             "nvd": 3,
@@ -25026,7 +25026,7 @@
           ],
           "VendorSeverity": {
             "alma": 2,
-            "amazon": 2,
+            "amazon": 3,
             "azure": 4,
             "bottlerocket": 2,
             "cbl-mariner": 4,
@@ -25177,10 +25177,12 @@
             "https://github.com/madler/zlib/blob/ac8f12c97d1afd9bafa9c710f827d40a407d3266/contrib/README.contrib#L1-L4",
             "https://github.com/madler/zlib/commit/73331a6a0481067628f065ffe87bb1d8f787d10c",
             "https://github.com/madler/zlib/pull/843",
+            "https://github.com/pypa/advisory-database/tree/main/vulns/pyminizip/PYSEC-2026-501.yaml",
             "https://github.com/smihica/pyminizip",
             "https://github.com/smihica/pyminizip/blob/master/zlib-1.2.11/contrib/minizip/zip.c",
             "https://lists.debian.org/debian-lts-announce/2023/11/msg00026.html",
             "https://nvd.nist.gov/vuln/detail/CVE-2023-45853",
+            "https://pypi.org/project/pyminizip",
             "https://pypi.org/project/pyminizip/#history",
             "https://security.gentoo.org/glsa/202401-18",
             "https://security.netapp.com/advisory/ntap-20231130-0009",
@@ -26915,7 +26917,7 @@
           ],
           "VendorSeverity": {
             "alma": 2,
-            "amazon": 2,
+            "amazon": 3,
             "azure": 4,
             "bitnami": 4,
             "cbl-mariner": 4,
@@ -27263,7 +27265,7 @@
           "Severity": "CRITICAL",
           "VendorSeverity": {
             "alma": 2,
-            "amazon": 2,
+            "amazon": 3,
             "bitnami": 4,
             "bottlerocket": 2,
             "cbl-mariner": 4,
@@ -27799,7 +27801,7 @@
           ],
           "VendorSeverity": {
             "alma": 2,
-            "amazon": 2,
+            "amazon": 3,
             "bitnami": 3,
             "cbl-mariner": 3,
             "nvd": 3,

@@ -3,8 +3,8 @@
   "Trivy": {
     "Version": "0.69.3"
   },
-  "ReportID": "01a1d5f3-b1e1-7c27-9143-2d67bae76df4",
-  "CreatedAt": "2026-11-13T17:28:00.225797533Z",
+  "ReportID": "01a1e5f7-3e3e-71be-b20a-03618209ad78",
+  "CreatedAt": "2026-11-16T20:05:48.22211655Z",
   "ArtifactID": "sha256:12b3d92af2689c67389937901bbe48fb3bb13084a203976598ee02c039c21538",
   "ArtifactName": "liquibase/liquibase:4.1.1",
   "ArtifactType": "container_image",
@@ -13828,7 +13828,7 @@
             "CWE-415"
           ],
           "VendorSeverity": {
-            "amazon": 3,
+            "amazon": 2,
             "bitnami": 3,
             "cbl-mariner": 3,
             "julia": 3,
@@ -15194,7 +15194,7 @@
             "CWE-415"
           ],
           "VendorSeverity": {
-            "amazon": 3,
+            "amazon": 2,
             "bitnami": 3,
             "cbl-mariner": 3,
             "julia": 3,
@@ -18023,7 +18023,7 @@
           ],
           "VendorSeverity": {
             "alma": 2,
-            "amazon": 2,
+            "amazon": 3,
             "azure": 3,
             "bitnami": 3,
             "ghsa": 3,
@@ -18144,7 +18144,7 @@
             "CWE-125"
           ],
           "VendorSeverity": {
-            "amazon": 2,
+            "amazon": 3,
             "azure": 3,
             "cbl-mariner": 3,
             "ghsa": 3,
@@ -18395,7 +18395,7 @@
           ],
           "VendorSeverity": {
             "alma": 2,
-            "amazon": 2,
+            "amazon": 3,
             "azure": 3,
             "cbl-mariner": 3,
             "julia": 3,
@@ -18516,7 +18516,7 @@
           ],
           "VendorSeverity": {
             "alma": 2,
-            "amazon": 2,
+            "amazon": 3,
             "cbl-mariner": 3,
             "julia": 3,
             "nvd": 3,
@@ -20990,7 +20990,7 @@
           ],
           "VendorSeverity": {
             "alma": 2,
-            "amazon": 2,
+            "amazon": 3,
             "azure": 3,
             "bitnami": 3,
             "ghsa": 3,
@@ -21111,7 +21111,7 @@
             "CWE-125"
           ],
           "VendorSeverity": {
-            "amazon": 2,
+            "amazon": 3,
             "azure": 3,
             "cbl-mariner": 3,
             "ghsa": 3,
@@ -21362,7 +21362,7 @@
           ],
           "VendorSeverity": {
             "alma": 2,
-            "amazon": 2,
+            "amazon": 3,
             "azure": 3,
             "cbl-mariner": 3,
             "julia": 3,
@@ -21483,7 +21483,7 @@
           ],
           "VendorSeverity": {
             "alma": 2,
-            "amazon": 2,
+            "amazon": 3,
             "cbl-mariner": 3,
             "julia": 3,
             "nvd": 3,
@@ -22608,7 +22608,7 @@
           ],
           "VendorSeverity": {
             "alma": 2,
-            "amazon": 2,
+            "amazon": 3,
             "azure": 4,
             "bottlerocket": 2,
             "cbl-mariner": 4,
@@ -22759,10 +22759,12 @@
             "https://github.com/madler/zlib/blob/ac8f12c97d1afd9bafa9c710f827d40a407d3266/contrib/README.contrib#L1-L4",
             "https://github.com/madler/zlib/commit/73331a6a0481067628f065ffe87bb1d8f787d10c",
             "https://github.com/madler/zlib/pull/843",
+            "https://github.com/pypa/advisory-database/tree/main/vulns/pyminizip/PYSEC-2026-501.yaml",
             "https://github.com/smihica/pyminizip",
             "https://github.com/smihica/pyminizip/blob/master/zlib-1.2.11/contrib/minizip/zip.c",
             "https://lists.debian.org/debian-lts-announce/2023/11/msg00026.html",
             "https://nvd.nist.gov/vuln/detail/CVE-2023-45853",
+            "https://pypi.org/project/pyminizip",
             "https://pypi.org/project/pyminizip/#history",
             "https://security.gentoo.org/glsa/202401-18",
             "https://security.netapp.com/advisory/ntap-20231130-0009",
